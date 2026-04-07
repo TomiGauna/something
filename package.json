@@ -1,0 +1,21 @@
+{
+  "name": "aw2---060426",
+  "version": "1.0.0",
+  "description": "Hello!!!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomiGauna/something.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/TomiGauna/something/issues"
+  },
+  "homepage": "https://github.com/TomiGauna/something#readme"
+}
